@@ -75,7 +75,7 @@
 
 .slider__item {
 	cursor: pointer;
-	background-color: #fff;
+	background-color: $cardsBg;
    border-radius: 11px;
    box-shadow: 0 3px 10px #333;
    margin: 10px;
@@ -91,7 +91,7 @@
 
 .project__card {
 	cursor: pointer;
-	background-color: #fff;
+	background-color: $cardsBg;
    border-radius: 11px;
 	box-shadow: 0 3px 10px #333;
    padding: 20px;
