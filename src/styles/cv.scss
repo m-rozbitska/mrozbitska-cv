@@ -32,6 +32,7 @@
 }
 
 .menu {
+	@media (max-width: 768px) {
 	&__icon {
 		display: block;
 		width: 30px;
@@ -46,6 +47,7 @@
 			width: 100%;
 			height: 3px;
 			background-color: $burgerIcon;
+			transition: all .3s;
 			&:first-child {
 				top: 0;
 			}
@@ -54,16 +56,36 @@
 				bottom: 0;
 			}
 		}
+		&:active {
+				span {
+					transform: scale(0);
+				
+				&:first-child {
+					transform: rotate(-45deg);
+					top: calc(50% - 1px)
+				}
+				&:last-child {
+					transform: rotate(45deg);
+					bottom: calc(50% - 1px)
+				}
+			}
+		}
 	}
+}
 	&__body {
 		@media (max-width: 768px) {
 			position: absolute;
+			overflow: auto;
 			top: 0;
 			left: -100%;
 			height: 100vh;
 			width: 100%;
 			background-color: $menuMobile;
 			display: flex;
+			transition: all .3s;
+		}
+		&.active {
+			left: 0;
 		}
 	}
 	&__list {
@@ -93,6 +115,9 @@
 	}
 }
 
+section {
+	padding-bottom: 30px;
+}
 
 .about {
 	padding-top: 30px;
