@@ -67,7 +67,7 @@ body {
   background: #e17dab;
   font-family: Roboto, sans-serif;
   font-size: 18px;
-  font-weight: 600;
+  font-weight: 400;
 }
 
 .container {
@@ -122,10 +122,19 @@ body {
 
 .menu__link {
   color: #123123;
+  font-weight: 700;
+}
+
+.menu__link:hover {
+  color: #346558;
 }
 
 .section {
-  padding: 20px 0;
+  padding-bottom: 30px;
+}
+
+.about {
+  padding-top: 30px;
 }
 
 .about__content {
@@ -167,6 +176,7 @@ body {
 .projects__container {
   max-width: 800px;
   margin: 0 auto;
+  padding-top: 20px;
   display: flex;
 }
 
@@ -176,7 +186,6 @@ body {
   max-width: 33%;
   background-color: #f0bed5;
   border-radius: 11px;
-  gap: 10px;
   margin: 10px;
   padding: 20px;
   box-shadow: 0 3px 10px #333;
@@ -188,18 +197,32 @@ body {
   font-weight: 700;
 }
 
-hr {
-  color: #312312;
-  width: 1px;
+hr.divider {
+  height: 1px;
+  background-color: #312312;
+  border: none;
+  margin: 10px 0;
 }
 
 .project__link {
   color: #123123;
   font-size: 16px;
+  font-weight: 700;
 }
 
 .project__description {
   padding-bottom: 10px;
+}
+
+.contacts__container {
+  justify-content: center;
+  gap: 40px;
+  padding-top: 20px;
+  display: flex;
+}
+
+.container__item {
+  background-color: #e17dab;
 }
 
 /*# sourceMappingURL=index.867122b9.css.map */
