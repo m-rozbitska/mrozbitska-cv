@@ -199,7 +199,7 @@ body.lock {
 }
 
 .menu__link:hover {
-  color: #346558;
+  color: #6f164e;
 }
 
 @media (max-width: 768px) {
@@ -288,8 +288,12 @@ hr.divider {
 
 .project__link {
   color: #123123;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 700;
+}
+
+.project__link:hover {
+  color: #6f164e;
 }
 
 .project__description {

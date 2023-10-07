@@ -104,7 +104,7 @@
 		color: $colorText;
 		font-weight: 700;
 			&:hover {
-			color: $colorTextActive;
+			color: $linkHover;
 		}
 		@media (max-width: 768px) {
 			display: block;
@@ -192,8 +192,11 @@ hr.divider {
 
 .project__link {
 	color: $colorText;
-	font-size: 16px;
+	font-size: 18px;
 	font-weight: 700;
+	&:hover {
+		color: $linkHover;
+	}
 }
 
 .project__description {
