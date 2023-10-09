@@ -1,4 +1,4 @@
-3035
+3039
 100D:\projects2023\mrozbitska-cv\node_modules\@parcel\package-manager\test\fixtures\packages\a\index.js133411597449003198 0
 52D:\projects2023\mrozbitska-cv\src\styles\styles.scss133413427499669667 0
 91D:\projects2023\mrozbitska-cv\node_modules\caniuse-lite\data\features\css-initial-letter.js133411597621448733 0
@@ -12,8 +12,8 @@
 84D:\projects2023\mrozbitska-cv\node_modules\electron-to-chromium\chromium-versions.js133411597736705833 0
 60D:\projects2023\mrozbitska-cv\node_modules\@msgpackr-extract133413429467233588 1
 72D:\projects2023\mrozbitska-cv\node_modules\weak-lru-cache\LRFUExpirer.js133411597802924182 0
-56D:\projects2023\mrozbitska-cv\dist\index.579125c3.js.map133413431443520573 0
-60D:\projects2023\mrozbitska-cv\dist\icons8-html5.8d9a3bd0.svg133413431446560175 0
+56D:\projects2023\mrozbitska-cv\dist\index.579125c3.js.map133413433245621681 0
+60D:\projects2023\mrozbitska-cv\dist\icons8-html5.8d9a3bd0.svg133413433246227625 0
 79D:\projects2023\mrozbitska-cv\node_modules\@parcel\watcher\src\watchman\BSER.hh133411597468365920 0
 97D:\projects2023\mrozbitska-cv\node_modules\lmdb\node_modules\node-addon-api\napi-inl.deprecated.h133411597767543594 0
 93D:\projects2023\mrozbitska-cv\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts133413429522156921 1
@@ -29,7 +29,7 @@
 76D:\projects2023\mrozbitska-cv\node_modules\bootstrap\scss\mixins\_forms.scss133411597602799467 0
 67D:\projects2023\mrozbitska-cv\node_modules\abortcontroller-polyfill133413429584406234 1
 57D:\projects2023\mrozbitska-cv\node_modules\is-binary-path133413429726166969 1
-34D:\projects2023\mrozbitska-cv\dist133413431446947561 1
+34D:\projects2023\mrozbitska-cv\dist133413433246873248 1
 87D:\projects2023\mrozbitska-cv\node_modules\utility-types\dist\functional-helpers.js.map133411597802274090 0
 98D:\projects2023\mrozbitska-cv\node_modules\lmdb\node_modules\node-addon-api\tools\eslint-format.js133411597768871995 0
 90D:\projects2023\mrozbitska-cv\node_modules\@popperjs\core\lib\utils\detectOverflow.js.flow133411597518927754 0
@@ -49,7 +49,7 @@
 33D:\projects2023\mrozbitska-cv\css133413427498626650 1
 68D:\projects2023\mrozbitska-cv\node_modules\utility-types\SECURITY.md133411597802055609 0
 74D:\projects2023\mrozbitska-cv\node_modules\caniuse-lite\data\regions\BF.js133411597660212701 0
-40D:\projects2023\mrozbitska-cv\index.html133413432481259293 0
+40D:\projects2023\mrozbitska-cv\index.html133413433036561344 0
 86D:\projects2023\mrozbitska-cv\node_modules\caniuse-lite\data\features\server-timing.js133411597647518570 0
 87D:\projects2023\mrozbitska-cv\node_modules\@parcel\core\test\fixtures\duplicate-targets133413429494650105 1
 62D:\projects2023\mrozbitska-cv\node_modules\lmdb\src\cursor.cpp133411597770028325 0
@@ -159,7 +159,7 @@
 104D:\projects2023\mrozbitska-cv\node_modules\@parcel\graph\test\integration\adjacency-list-shared-array.js133411597441693610 0
 52D:\projects2023\mrozbitska-cv\node_modules\@popperjs133413429547999302 1
 74D:\projects2023\mrozbitska-cv\node_modules\jquery\src\css\var\getStyles.js133411597749466310 0
-58D:\projects2023\mrozbitska-cv\dist\icons8-css.bd8b7f88.svg133413431446580031 0
+58D:\projects2023\mrozbitska-cv\dist\icons8-css.bd8b7f88.svg133413433246287173 0
 63D:\projects2023\mrozbitska-cv\node_modules\msgpackr\unpack.d.ts133411597777304955 0
 74D:\projects2023\mrozbitska-cv\node_modules\caniuse-lite\data\regions\PH.js133411597711141671 0
 64D:\projects2023\mrozbitska-cv\node_modules\jquery\src\deprecated133413429737192954 1
@@ -1104,7 +1104,7 @@
 94D:\projects2023\mrozbitska-cv\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_copy.1133411597760700246 0
 73D:\projects2023\mrozbitska-cv\node_modules\@popperjs\core\lib\popper.d.ts133411597517807084 0
 94D:\projects2023\mrozbitska-cv\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_drop.1133411597760789643 0
-64D:\projects2023\mrozbitska-cv\dist\mrozbitska-cv.3464ddca.js.map133413431443510642 0
+64D:\projects2023\mrozbitska-cv\dist\mrozbitska-cv.3464ddca.js.map133413433246167965 0
 112D:\projects2023\mrozbitska-cv\node_modules\@parcel\package-manager\test\fixtures\packages\peers-2.0\package.json133411597449350949 0
 94D:\projects2023\mrozbitska-cv\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_drop.c133411597760829391 0
 94D:\projects2023\mrozbitska-cv\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_dump.c133411597761057884 0
@@ -1303,7 +1303,7 @@
 82D:\projects2023\mrozbitska-cv\node_modules\caniuse-lite\data\features\objectrtc.js133411597642416391 0
 86D:\projects2023\mrozbitska-cv\node_modules\@parcel\workers\lib\threads\ThreadsChild.js133411597470878832 0
 84D:\projects2023\mrozbitska-cv\node_modules\jquery\src\deprecated\ajax-event-alias.js133411597750218007 0
-60D:\projects2023\mrozbitska-cv\dist\mrozbitska-cv.3464ddca.js133413431443321960 0
+60D:\projects2023\mrozbitska-cv\dist\mrozbitska-cv.3464ddca.js133413433245174647 0
 89D:\projects2023\mrozbitska-cv\node_modules\@popperjs\core\lib\dom-utils\getWindow.js.flow133411597513966620 0
 69D:\projects2023\mrozbitska-cv\node_modules\caniuse-lite\dist\unpacker133413429710442522 1
 73D:\projects2023\mrozbitska-cv\node_modules\jquery\src\deprecated\event.js133411597750247205 0
@@ -1609,6 +1609,7 @@
 83D:\projects2023\mrozbitska-cv\node_modules\caniuse-lite\data\features\filesystem.js133411597631845116 0
 74D:\projects2023\mrozbitska-cv\node_modules\caniuse-lite\data\regions\MQ.js133411597699359246 0
 90D:\projects2023\mrozbitska-cv\node_modules\@popperjs\core\lib\utils\computeOffsets.js.flow133411597518634107 0
+65D:\projects2023\mrozbitska-cv\dist\icons8-githubicon.1db1934c.svg133413433246217679 0
 74D:\projects2023\mrozbitska-cv\node_modules\caniuse-lite\data\regions\MR.js133411597699418842 0
 74D:\projects2023\mrozbitska-cv\node_modules\caniuse-lite\data\regions\MS.js133411597699597633 0
 74D:\projects2023\mrozbitska-cv\node_modules\caniuse-lite\data\regions\MT.js133411597699617495 0
@@ -1665,6 +1666,7 @@
 82D:\projects2023\mrozbitska-cv\node_modules\@popperjs\core\lib\utils\getAltLen.d.ts133411597519136349 0
 74D:\projects2023\mrozbitska-cv\node_modules\caniuse-lite\data\regions\SM.js133411597717587749 0
 74D:\projects2023\mrozbitska-cv\node_modules\caniuse-lite\data\regions\SN.js133411597717667230 0
+55D:\projects2023\mrozbitska-cv\dist\favicon.be4b0254.ico133413433236949885 0
 74D:\projects2023\mrozbitska-cv\node_modules\caniuse-lite\data\regions\SO.js133411597717865888 0
 62D:\projects2023\mrozbitska-cv\node_modules\base-x\src\index.js133411597541271003 0
 83D:\projects2023\mrozbitska-cv\node_modules\abortcontroller-polyfill\src\polyfill.js133411597526606430 0
@@ -1912,7 +1914,7 @@
 88D:\projects2023\mrozbitska-cv\node_modules\caniuse-lite\data\features\input-minlength.js133411597635134486 0
 84D:\projects2023\mrozbitska-cv\node_modules\bootstrap\scss\mixins\_border-radius.scss133411597602443562 0
 92D:\projects2023\mrozbitska-cv\node_modules\caniuse-lite\data\features\css-read-only-write.js133411597623588882 0
-57D:\projects2023\mrozbitska-cv\dist\index.867122b9.css.map133413431443192785 0
+57D:\projects2023\mrozbitska-cv\dist\index.867122b9.css.map133413433243535673 0
 90D:\projects2023\mrozbitska-cv\node_modules\caniuse-lite\data\features\css-rebeccapurple.js133411597623648500 0
 88D:\projects2023\mrozbitska-cv\node_modules\caniuse-lite\data\features\css-reflections.js133411597623668374 0
 92D:\projects2023\mrozbitska-cv\node_modules\@parcel\source-map\parcel_sourcemap_node\build.js133411597453711531 0
@@ -2067,6 +2069,7 @@
 99D:\projects2023\mrozbitska-cv\node_modules\caniuse-lite\data\features\same-site-cookie-attribute.js133411597646950918 0
 81D:\projects2023\mrozbitska-cv\node_modules\caniuse-lite\data\features\lazyload.js133411597636773129 0
 86D:\projects2023\mrozbitska-cv\node_modules\caniuse-lite\data\features\link-icon-png.js133411597636994411 0
+63D:\projects2023\mrozbitska-cv\dist\icons8-facebook.d288d22e.svg133413433246187857 0
 71D:\projects2023\mrozbitska-cv\node_modules\@parcel\workers\package.json133411597471007971 0
 86D:\projects2023\mrozbitska-cv\node_modules\caniuse-lite\data\features\link-icon-svg.js133411597637175821 0
 92D:\projects2023\mrozbitska-cv\node_modules\caniuse-lite\data\features\link-rel-preconnect.js133411597637495947 0
@@ -2448,7 +2451,7 @@
 91D:\projects2023\mrozbitska-cv\node_modules\@popperjs\core\lib\modifiers\eventListeners.d.ts133411597515536084 0
 89D:\projects2023\mrozbitska-cv\node_modules\@popperjs\core\lib\modifiers\eventListeners.js133411597515605600 0
 94D:\projects2023\mrozbitska-cv\node_modules\@popperjs\core\lib\modifiers\eventListeners.js.flow133411597515625466 0
-52D:\projects2023\mrozbitska-cv\dist\logo.cd13699a.svg133413431446609844 0
+52D:\projects2023\mrozbitska-cv\dist\logo.cd13699a.svg133413433246237513 0
 81D:\projects2023\mrozbitska-cv\node_modules\@popperjs\core\lib\modifiers\flip.d.ts133411597515645328 0
 60D:\projects2023\mrozbitska-cv\node_modules\@parcel\core\test133413429491670140 1
 81D:\projects2023\mrozbitska-cv\node_modules\@popperjs\core\lib\modifiers\hide.d.ts133411597515932841 0
@@ -2564,7 +2567,7 @@
 95D:\projects2023\mrozbitska-cv\node_modules\@popperjs\core\dist\esm\dom-utils\getScrollParent.js133411597497541562 0
 95D:\projects2023\mrozbitska-cv\node_modules\@popperjs\core\dist\esm\dom-utils\getWindowScroll.js133411597498424495 0
 99D:\projects2023\mrozbitska-cv\node_modules\@popperjs\core\dist\esm\dom-utils\getWindowScrollBarX.js133411597498454386 0
-61D:\projects2023\mrozbitska-cv\dist\icons8-github.c14c42d3.svg133413431446609844 0
+61D:\projects2023\mrozbitska-cv\dist\icons8-github.c14c42d3.svg133413433246187857 0
 90D:\projects2023\mrozbitska-cv\node_modules\@popperjs\core\dist\esm\dom-utils\instanceOf.js133411597498484172 0
 94D:\projects2023\mrozbitska-cv\node_modules\@popperjs\core\dist\esm\dom-utils\isTableElement.js133411597498574405 0
 67D:\projects2023\mrozbitska-cv\node_modules\@lezer\lr\dist\index.cjs133411597388884032 0
@@ -2864,6 +2867,7 @@
 88D:\projects2023\mrozbitska-cv\node_modules\@parcel\core\test\fixtures\library-scopehoist133413429496567258 1
 90D:\projects2023\mrozbitska-cv\node_modules\@parcel\core\test\fixtures\main-format-mismatch133413429496736130 1
 81D:\projects2023\mrozbitska-cv\node_modules\@parcel\core\test\fixtures\main-global133413429496984427 1
+63D:\projects2023\mrozbitska-cv\dist\icons8-linkedin.b00e1b40.svg133413433246187857 0
 98D:\projects2023\mrozbitska-cv\node_modules\@parcel\core\test\fixtures\targets-default-distdir-none133413429498305606 1
 97D:\projects2023\mrozbitska-cv\node_modules\@parcel\core\test\fixtures\targets-default-distdir-two133413429498851937 1
 120D:\projects2023\mrozbitska-cv\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-no-engines133413429498146670 1
@@ -3025,12 +3029,12 @@
 54D:\projects2023\mrozbitska-cv\node_modules\.bin\semver133411597385288185 0
 58D:\projects2023\mrozbitska-cv\node_modules\.bin\semver.ps1133411597385745116 0
 70D:\projects2023\mrozbitska-cv\node_modules\.bin\update-browserslist-db133411597385794746 0
-64D:\projects2023\mrozbitska-cv\dist\icons8-bootstrap.4174f636.svg133413431446599898 0
-58D:\projects2023\mrozbitska-cv\dist\icons8-git.0ac41f94.svg133413431446589978 0
+64D:\projects2023\mrozbitska-cv\dist\icons8-bootstrap.4174f636.svg133413433246187857 0
+58D:\projects2023\mrozbitska-cv\dist\icons8-git.0ac41f94.svg133413433246187857 0
 61D:\projects2023\mrozbitska-cv\dist\icons8-github.fdd256b5.gif133413431436279176 0
-57D:\projects2023\mrozbitska-cv\dist\icons8-js.92009a5b.svg133413431446589978 0
-52D:\projects2023\mrozbitska-cv\dist\index.579125c3.js133413431443311966 0
-53D:\projects2023\mrozbitska-cv\dist\index.867122b9.css133413431442904701 0
-45D:\projects2023\mrozbitska-cv\dist\index.html133413431446619781 0
+57D:\projects2023\mrozbitska-cv\dist\icons8-js.92009a5b.svg133413433246187857 0
+52D:\projects2023\mrozbitska-cv\dist\index.579125c3.js133413433245174647 0
+53D:\projects2023\mrozbitska-cv\dist\index.867122b9.css133413433243346934 0
+45D:\projects2023\mrozbitska-cv\dist\index.html133413433246287173 0
 43D:\projects2023\mrozbitska-cv\css\color.css133413427498557136 0
 44D:\projects2023\mrozbitska-cv\css\styles.css133413427498636587 0
