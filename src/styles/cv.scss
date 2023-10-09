@@ -153,6 +153,9 @@ section {
 	flex-wrap: wrap;
 	gap: 80px;
 	align-items: center;
+	@media(max-width: 768px) {
+		gap: 40px;
+	}
 	@media(max-width: 380px) {
 		max-width: 400px;
 		flex-direction: row;
