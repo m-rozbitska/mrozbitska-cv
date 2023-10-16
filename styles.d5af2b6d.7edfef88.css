@@ -177,7 +177,7 @@ body.lock {
     transform: rotate(-405deg);
     top: calc(50% - 1.5px);
   }
-<<<<<<< HEAD:styles.d5af2b6d.7edfef88.css
+
   .menu__icon.active span:last-child {
     transform: rotate(405deg);
     bottom: calc(50% - 1.5px);
@@ -194,19 +194,7 @@ body.lock {
     background-color: #B03966;
     display: flex;
     transition: all 0.3s;
-=======
-
-  .menu__body {
-    height: 100vh;
-    width: 100%;
-    background-color: #b03966;
-    transition: all .2s;
-    display: flex;
-    position: absolute;
-    top: 0;
-    left: -100%;
-    overflow: auto;
->>>>>>> b97eb2f6699849cc1f0551c608db510aa4a150a3:index.867122b9.css
+  
   }
 }
 .menu__body.active {
@@ -345,20 +333,12 @@ section {
   /* margin: 5px; */
   text-align: center;
   max-width: 33%;
-<<<<<<< HEAD:styles.d5af2b6d.7edfef88.css
 }
 @media (max-width: 380px) {
   .project__card {
     padding: 10px;
     max-width: 50%;
   }
-=======
-  background-color: #f0bed5;
-  border-radius: 11px;
-  margin: 5px;
-  padding: 20px;
-  box-shadow: 0 3px 10px #333;
->>>>>>> b97eb2f6699849cc1f0551c608db510aa4a150a3:index.867122b9.css
 }
 
 @media (max-width: 380px) {
