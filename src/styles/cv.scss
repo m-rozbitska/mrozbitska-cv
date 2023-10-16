@@ -82,7 +82,7 @@
 			width: 100%;
 			background-color: $menuMobile;
 			display: flex;
-			transition: all .3s;
+			transition: all .2s;
 		}
 		&.active {
 			left: 0;
@@ -201,11 +201,12 @@ section {
    border-radius: 11px;
 	box-shadow: 0 3px 10px #333;
    padding: 20px;
-   margin: 10px;
+   margin: 5px;
 	text-align: center;
 	max-width: 33%;
 	@media (max-width: 380px) {
 		padding: 10px;
+		max-width: 50%;
 	}
 }
 
