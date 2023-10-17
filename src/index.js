@@ -1,21 +1,22 @@
-addEventListener("DOMContentLoaded", ()=> {
+document.addEventListener("DOMContentLoaded", () => {
 	const menu = document.querySelector('.menu__body');
 	const menuBtn = document.querySelector('.menu__icon');
 	const body = document.body;
+	const menuLinks = document.querySelectorAll('.menu__link');
 
-	if(menu && menuBtn) {
-		menuBtn.addEventListener('click', () => {
-			menu.classList.toggle('active')
-			menuBtn.classList.toggle('active')
-			body.classList.toggle('lock')
-		})
+	menuBtn.addEventListener('click', () => {
+		menu.classList.add('active');
+		menuBtn.classList.add('active');
+		body.classList.add('lock');
+	});
 
-		menu.querySelectorAll('.menu__link').forEach(link => {
-			link.addEventListener('click', () => {
-				menu.classList.remove('active')
-				menuBtn.classList.remove('active')
-				body.classList.remove('lock')
-			})
-		})
-	}
-})
+	menuLinks.forEach(link => {
+		link.addEventListener('click', () => {
+			menu.classList.remove('active');
+			menuBtn.classList.remove('active');
+			body.classList.remove('lock');
+		});
+	});
+});
+
+

@@ -42,12 +42,12 @@
 		cursor: pointer;
 		span {
 			position: absolute;
-			top: calc(50% - 1px);
+			top: calc(50% - 1.5px);
 			left: 0%;
 			width: 100%;
 			height: 3px;
 			background-color: $burgerIcon;
-			transition: all .2s;
+			transition: all 0.8s;
 			&:first-child {
 				top: 0;
 			}
@@ -56,17 +56,17 @@
 				bottom: 0;
 			}
 		}
-		&:active {
+		&.active {
 				span {
 					transform: scale(0);
 				
 				&:first-child {
-					transform: rotate(-45deg);
-					top: calc(50% - 1px)
+					transform: rotate(-405deg);
+					top: calc(50% - 1.5px)
 				}
 				&:last-child {
-					transform: rotate(45deg);
-					bottom: calc(50% - 1px)
+					transform: rotate(405deg);
+					bottom: calc(50% - 1.5px)
 				}
 			}
 		}
@@ -82,7 +82,7 @@
 			width: 100%;
 			background-color: $menuMobile;
 			display: flex;
-			transition: all .2s;
+			transition: all .3s;
 		}
 		&.active {
 			left: 0;
@@ -189,6 +189,7 @@ section {
 	max-width: 800px;
 	margin: 0 auto;
 	display: flex;
+	gap: 10px;
 	@media (max-width: 380px) {
 		flex-direction: column;
 		align-items: center;
@@ -201,7 +202,7 @@ section {
    border-radius: 11px;
 	box-shadow: 0 3px 10px #333;
    padding: 20px;
-   margin: 5px;
+   // margin: 5px;
 	text-align: center;
 	max-width: 33%;
 	@media (max-width: 380px) {
@@ -212,10 +213,10 @@ section {
 
 .project__title {
 	font-weight: 700;
-	font-size: 24px;
+	font-size: 20px;
 	padding-bottom: 10px;
 	@media (max-width: 380px) {
-		font-size: 16px;
+		font-size: 14px;
 	}
 }
 

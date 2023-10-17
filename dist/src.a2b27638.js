@@ -118,24 +118,23 @@ parcelRequire = (function (modules, cache, entry, globalName) {
 
   return newRequire;
 })({"src/index.js":[function(require,module,exports) {
-addEventListener("DOMContentLoaded", function () {
+document.addEventListener("DOMContentLoaded", function () {
   var menu = document.querySelector('.menu__body');
   var menuBtn = document.querySelector('.menu__icon');
   var body = document.body;
-  if (menu && menuBtn) {
-    menuBtn.addEventListener('click', function () {
-      menu.classList.toggle('active');
-      menuBtn.classList.toggle('active');
-      body.classList.toggle('lock');
+  var menuLinks = document.querySelectorAll('.menu__link');
+  menuBtn.addEventListener('click', function () {
+    menu.classList.add('active');
+    menuBtn.classList.add('active');
+    body.classList.add('lock');
+  });
+  menuLinks.forEach(function (link) {
+    link.addEventListener('click', function () {
+      menu.classList.remove('active');
+      menuBtn.classList.remove('active');
+      body.classList.remove('lock');
     });
-    menu.querySelectorAll('.menu__link').forEach(function (link) {
-      link.addEventListener('click', function () {
-        menu.classList.remove('active');
-        menuBtn.classList.remove('active');
-        body.classList.remove('lock');
-      });
-    });
-  }
+  });
 });
 },{}],"C:/Users/Mariia/AppData/Roaming/npm/node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
 var global = arguments[3];
@@ -162,7 +161,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "14345" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "1031" + '/');
   ws.onmessage = function (event) {
     checkedAssets = {};
     assetsToAccept = [];
