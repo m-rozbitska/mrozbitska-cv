@@ -6,9 +6,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
 		menuBtn.addEventListener('click', () => {
-			menu.classList.add('active');
-			menuBtn.classList.add('active');
-			body.classList.add('lock');
+			menu.classList.toggle('active');
+			menuBtn.classList.toggle('active');
+			body.classList.toggle('lock');
 		});
 
 		menuLinks.forEach(link => {
@@ -19,5 +19,8 @@ document.addEventListener("DOMContentLoaded", () => {
 			});
 		});
 	});
+
+
+
 
 

@@ -124,9 +124,9 @@ document.addEventListener("DOMContentLoaded", function () {
   var body = document.body;
   var menuLinks = document.querySelectorAll('.menu__link');
   menuBtn.addEventListener('click', function () {
-    menu.classList.add('active');
-    menuBtn.classList.add('active');
-    body.classList.add('lock');
+    menu.classList.toggle('active');
+    menuBtn.classList.toggle('active');
+    body.classList.toggle('lock');
   });
   menuLinks.forEach(function (link) {
     link.addEventListener('click', function () {
@@ -161,7 +161,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "8911" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "10015" + '/');
   ws.onmessage = function (event) {
     checkedAssets = {};
     assetsToAccept = [];
